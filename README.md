@@ -15,7 +15,7 @@
 Run the script:
 
 ```bash
-    node middleware.js
+    nodemon middleware.js
 ```
     
 #### Route
@@ -24,7 +24,7 @@ Run the script:
 Run the script:
 
 ```bash
-    node route.js
+    nodemon route.js
 ```
 
 ### 1.3 React.js
@@ -48,7 +48,7 @@ Run the script:
 Run the script:
 
 ```bash
-    node file_system.js
+    nodemon file_system.js
 ```
 
 #### API Integration
