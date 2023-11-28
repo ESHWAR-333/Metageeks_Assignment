@@ -52,7 +52,7 @@ Run the script:
 ```
 ### Node Modules
 
-- To install the necessary Node.js packages, run the following command
+- necessary Node.js packages
 ```
       "axios": "^1.6.2",
       "react": "^18.2.0",
@@ -80,9 +80,11 @@ Run the script:
 ```bash
     node api.js
 ```
+
 - To install the necessary Node.js packages, run the following command
 ```
      npm install fs axios
+```
     
 ## Part 2: General Programming Questions
 
