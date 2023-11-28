@@ -11,7 +11,10 @@
 ### 1.2 Express.js
 
 ### Node.js Packages
+
+- To install the necessary Node.js packages, run the following command
 ```
+npm install
     express
     MySQL
     cors
