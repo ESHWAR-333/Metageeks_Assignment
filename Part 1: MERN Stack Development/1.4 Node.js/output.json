@@ -1,0 +1,128 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "posts": [
+        {
+          "id": 101,
+          "title": "Post 1"
+        },
+        {
+          "id": 102,
+          "title": "Post 2"
+        }
+      ],
+      "totalPosts": 2
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "posts": [
+        {
+          "id": 201,
+          "title": "Post 3"
+        },
+        {
+          "id": 202,
+          "title": "Post 4"
+        }
+      ],
+      "totalPosts": 2
+    },
+    {
+      "id": 3,
+      "name": "Bob Johnson",
+      "posts": [
+        {
+          "id": 301,
+          "title": "Post 5"
+        }
+      ],
+      "totalPosts": 1
+    },
+    {
+      "id": 4,
+      "name": "Alice Williams",
+      "posts": [
+        {
+          "id": 401,
+          "title": "Post 6"
+        },
+        {
+          "id": 402,
+          "title": "Post 7"
+        }
+      ],
+      "totalPosts": 2
+    },
+    {
+      "id": 5,
+      "name": "Sam Wilson",
+      "posts": [
+        {
+          "id": 501,
+          "title": "Post 8"
+        }
+      ],
+      "totalPosts": 1
+    },
+    {
+      "id": 6,
+      "name": "Lisa Brown",
+      "posts": [
+        {
+          "id": 601,
+          "title": "Post 9"
+        }
+      ],
+      "totalPosts": 1
+    },
+    {
+      "id": 7,
+      "name": "Michael Taylor",
+      "posts": [
+        {
+          "id": 701,
+          "title": "Post 10"
+        }
+      ],
+      "totalPosts": 1
+    },
+    {
+      "id": 8,
+      "name": "Olivia Miller",
+      "posts": [
+        {
+          "id": 801,
+          "title": "Post 11"
+        },
+        {
+          "id": 802,
+          "title": "Post 12"
+        }
+      ],
+      "totalPosts": 2
+    },
+    {
+      "id": 9,
+      "name": "Ryan Clark",
+      "posts": [
+        {
+          "id": 901,
+          "title": "Post 13"
+        }
+      ],
+      "totalPosts": 1
+    },
+    {
+      "id": 10,
+      "name": "Emma Jones",
+      "posts": [
+        {
+          "id": 1001,
+          "title": "Post 14"
+        }
+      ],
+      "totalPosts": 1
+    }
+  ]

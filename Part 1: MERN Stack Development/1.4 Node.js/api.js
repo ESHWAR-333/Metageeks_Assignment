@@ -1,3 +1,6 @@
+// Create a Node.js function that fetches data from an external API (e.g., JSONPlaceholder) and returns a list of users along with their posts.
+
+
 const axios = require('axios');
 
 async function getUsersWithPosts() {
