@@ -2,8 +2,7 @@
 
 
 ## File Structure
-```
-├── **Part 1: MERN Stack Development/**
+```├── **Part 1: MERN Stack Development/**
 │   ├── **1.1 SQL/**
 │   │   ├── `Query.sql`
 │   │   ├── `Schema_Design.sql`
@@ -28,5 +27,4 @@
 │   ├── **Coding Best Practices/**
 │   ├── **Database Concepts/**
 │   ├── **Web Technologies/**
-└── `README.md`
-```
+└── `README.md`  ```
