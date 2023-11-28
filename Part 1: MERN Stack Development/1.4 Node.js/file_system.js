@@ -1,3 +1,6 @@
+// Write a Node.js script that reads a JSON file containing user data, manipulates the data to include the total number of posts each user  has created, and writes the modified data back to a new JSON file.
+
+
 const fs = require('fs');
 
 // Read the input JSON file
