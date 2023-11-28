@@ -9,9 +9,17 @@
 - Design a MongoDB schema for a blog application with the following entities: User, Post, and Comment. Include relevant fields and relationships as outlined in `Schema_Design.sql`.
 
 ### 1.2 Express.js
+
+### Node.js Packages
+```
+    express
+    MySQL
+    cors
+    body-parser
+```
 #### Middleware
 - The Express.js middleware, logging timestamp and requested URL for every incoming request, is implemented in `middleware.js`.
-- 
+
 Run the script:
 
 ```bash
