@@ -14,18 +14,18 @@
 - 
 Run the script:
 
-    ```bash
+```bash
     node middleware.js
-    ```
+```
     
 #### Route
 - Express.js route to retrieve a list of posts from the database and return it as JSON is implemented in `route.js`.
 
 Run the script:
 
-    ```bash
+```bash
     node route.js
-    ```
+```
 
 ### 1.3 React.js
 #### Component
