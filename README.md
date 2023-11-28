@@ -11,9 +11,21 @@
 ### 1.2 Express.js
 #### Middleware
 - The Express.js middleware, logging timestamp and requested URL for every incoming request, is implemented in `middleware.js`.
+- 
+Run the script:
 
+    ```bash
+    node middleware.js
+    ```
+    
 #### Route
 - Express.js route to retrieve a list of posts from the database and return it as JSON is implemented in `route.js`.
+
+Run the script:
+
+    ```bash
+    node route.js
+    ```
 
 ### 1.3 React.js
 #### Component
@@ -22,12 +34,31 @@
 #### State Management
 - React.js state management, handling the loading state while fetching blog posts, is implemented in `src/App.js`.
 
+Run the script:
+
+```bash
+    npm start
+```
+
+
 ### 1.4 Node.js
 #### File System
 - Node.js script reading a JSON file containing user data, manipulating the data to include the total number of posts each user has created, and writing the modified data back to a new JSON file is available in `file_system.js`.
 
+Run the script:
+
+    ```bash
+    node file_system.js
+    ```
+
 #### API Integration
 - Node.js function fetching data from an external API (e.g., JSONPlaceholder) and returning a list of users along with their posts is implemented in `api.js`.
+
+Run the script:
+
+    ```bash
+    node api.js
+    ```
 
 ## Part 2: General Programming Questions
 
