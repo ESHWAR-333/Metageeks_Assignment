@@ -50,7 +50,17 @@ Run the script:
 ```bash
     npm start
 ```
+### Node Modules
 
+- To install the necessary Node.js packages, run the following command
+```
+      "axios": "^1.6.2",
+      "react": "^18.2.0",
+      "react-dom": "^18.2.0",
+      "react-loader-spinner": "^5.4.5",
+      "react-scripts": "5.0.1",
+      "web-vitals": "^2.1.4"
+```
 
 ### 1.4 Node.js
 #### File System
@@ -70,7 +80,10 @@ Run the script:
 ```bash
     node api.js
 ```
-
+- To install the necessary Node.js packages, run the following command
+```
+     npm install fs axios
+    
 ## Part 2: General Programming Questions
 
 ### Algorithmic Problem
