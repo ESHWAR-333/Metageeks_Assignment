@@ -14,18 +14,18 @@
 - 
 Run the script:
 
-    ```bash
+```bash
     node middleware.js
-    ```
+```
     
 #### Route
 - Express.js route to retrieve a list of posts from the database and return it as JSON is implemented in `route.js`.
 
 Run the script:
 
-    ```bash
+```bash
     node route.js
-    ```
+```
 
 ### 1.3 React.js
 #### Component
@@ -47,18 +47,18 @@ Run the script:
 
 Run the script:
 
-    ```bash
+```bash
     node file_system.js
-    ```
+```
 
 #### API Integration
 - Node.js function fetching data from an external API (e.g., JSONPlaceholder) and returning a list of users along with their posts is implemented in `api.js`.
 
 Run the script:
 
-    ```bash
+```bash
     node api.js
-    ```
+```
 
 ## Part 2: General Programming Questions
 
@@ -69,9 +69,9 @@ Run the script:
 
 - Run the script:
 
-    ```bash
+```bash
     python Algorithmic_Problem.py
-    ```
+```
 
 ### Database Concepts
 
