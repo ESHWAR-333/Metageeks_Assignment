@@ -1,4 +1,4 @@
--- Write a MongoDB query to find all posts created by a specific user, including the user details.
+-- Write a MongoDB/SQL query to find all posts created by a specific user, including the user details.
 
 SELECT posts.*, users.username as author_username, users.email as author_email
 FROM posts

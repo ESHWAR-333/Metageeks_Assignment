@@ -1,4 +1,4 @@
--- Design a MongoDB schema for a blog application with the following entities: User, Post, and Comment. Include relevant fields and relationships.
+-- Design a MongoDB/SQL schema for a blog application with the following entities: User, Post, and Comment. Include relevant fields and relationships.
 
 -- User Table
 CREATE TABLE users (
