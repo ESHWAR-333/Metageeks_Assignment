@@ -1,0 +1,13 @@
+What is CORS, and how does it work? How can you handle CORS-related issues in a web application?
+
+**CORS (Cross-Origin Resource Sharing):**
+
+->CORS is a security feature implemented by web browsers that controls how web pages in one domain can request and interact with resources hosted in another domain.
+->It is designed to prevent unauthorized cross-origin requests that could potentially lead to security vulnerabilities. CORS works by including HTTP headers that specify which origins are permitted to access a resource.
+
+
+**Handling CORS Issues:**
+
+->Enable CORS on the server by adding the appropriate headers to responses.
+->In a web application, use techniques such as JSONP, server-side proxies, or configure the server to allow specific origins.
+->For development, tools like CORS browser extensions can be used to temporarily disable CORS restrictions.

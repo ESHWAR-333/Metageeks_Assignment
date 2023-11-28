@@ -1,0 +1,22 @@
+**Explain the difference between SQL and NoSQL databases. Provide examples of use cases for each.**
+
+**SQL (Structured Query Language) Databases:**
+
+* SQL databases are relational databases that use structured query language (SQL) for defining and manipulating the data.
+* They have a predefined schema, meaning the structure of the data (tables, columns, relationships) is defined before inserting data.
+* Examples: MySQL, PostgreSQL, SQLite, Oracle.
+
+
+**NoSQL Databases:**
+
+* NoSQL databases are non-relational and provide a flexible schema. They can store and process large amounts of unstructured data.
+* They are suitable for large-scale distributed data and real-time applications.
+* Examples: MongoDB (document store), Cassandra (wide-column store), Redis (key-value store).
+
+
+**Use Cases:**
+
+**SQL**: Suitable for applications where data structure is fixed and the relationship between entities is well-defined, such as traditional business applications.
+**NoSQL**: Ideal for scenarios with dynamic and evolving data structures, like social media, big data analytics, and real-time applications.
+
+
