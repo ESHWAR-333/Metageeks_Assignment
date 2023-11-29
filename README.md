@@ -63,7 +63,7 @@ Run the script:
 ```
 
 ## working site:
-``` https://spectacular-salamander-705159.netlify.app/ ```
+```[a link]( https://spectacular-salamander-705159.netlify.app/ )```
 
 ### 1.4 Node.js
 #### File System
